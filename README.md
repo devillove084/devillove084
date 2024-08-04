@@ -4,13 +4,8 @@ Hi 👋 My name is Huanbing
 Distributed System & Database & OS Kernel Dev
 ---------------------------------------------
 
-* 🌍  I'm based in Shanghai
 * 🖥️  See my portfolio at [Blog](http://devillove084.github.io/)
 * ✉️  You can contact me at [luhuanbing084@gmail.com](mailto:luhuanbing084@gmail.com)
-* 🚀  I'm currently working on [TemplateDB](http://github.com/devillove084/TemplateKV)
-* 🧠  I'm learning TLA+ & TSDB
-* 🤝  I'm open to collaborating on TiKV & Databend & RisingWave
-* ⚡  I am Batman
 
 <a href="https://www.github.com/devillove084" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/devillove084?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
